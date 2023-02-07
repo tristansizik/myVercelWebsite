@@ -1,5 +1,5 @@
 
-import { AiOutlineRocket, AiOutlineGithub, AiOutlineCloud, AiOutlineHome} from "react-icons/ai";
+import { AiOutlineRocket, AiOutlineGithub, AiOutlineCloud, AiOutlineHome} from 'react-icons/ai';
 
 const SideBar  = () => {
     return (
